@@ -1,0 +1,8 @@
+{
+  "name": "Sua Saúde SJP",
+  "description": "Uma plataforma integrada para gestão de saúde pública em São José dos Pinhais, permitindo agendamentos, acompanhamento pré-natal, carteira de vacinação digital e comunicação direta com agentes de saúde.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
